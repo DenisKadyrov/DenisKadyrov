@@ -70,14 +70,10 @@ Currently, I’m studying the C programming language to deepen my understanding 
 
 <div id="badges" align="center">
   <div aling="center"><h4>Contacts:</h4> </div>
-  <a href="https://orange-breeze-de6.notion.site/10824911f61f80449465c58f24d8c07d?pvs=4" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3135/3135692.png" alt="CV"/>
-  </a>
   <a href="https://t.me/pluviofile2_0" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <br>
-  <a href="https://gist.github.com/Miron-Anosov/f6d7d4190f093742a36b1b7d5d399619" target="_blank">
+  <a href="https://cdn-icons-png.flaticon.com/128/3135/3135692.png" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Gist-orange?style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
   </a>
 </div>
