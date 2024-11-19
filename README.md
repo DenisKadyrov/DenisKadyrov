@@ -30,21 +30,21 @@ I finished a web development course at Skillbox!<br> </p>
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="40" alt="FastAPI"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/508915/flask.svg" height="40" alt="Flask"  />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/349342/docker.svg" height="40" alt="Docker"  />
-  <img width="12" />
-  <img src="https://symbols.getvecta.com/stencil_25/30_gitlab.83a9252b1c.svg" height="40" alt="Gitlab"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" height="40" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Go.svg" height="40" alt="Golang" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo" />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="40" alt="Swagger" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
 </div>
 
