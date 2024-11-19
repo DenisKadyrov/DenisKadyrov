@@ -55,14 +55,14 @@ I finished a web development course at Skillbox!<br> </p>
 ###
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=miron-anosov&theme=transparent" alt="GitHub Streak" style="display: inline-block;"/>
+    <img src="https://streak-stats.demolab.com?user=DenisKadyrov" alt="GitHub Streak" style="display: inline-block;"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miron-anosov&show_icons=true&theme=transparent" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miron-anosov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DenisKadyrov&show_icons=true&theme=transparent" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DenisKadyrov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
