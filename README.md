@@ -70,13 +70,10 @@ I finished a web development course at Skillbox!<br> </p>
 
 <div id="badges" align="center">
   <div aling="center"><h4>Contacts:</h4> </div>
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://orange-breeze-de6.notion.site/10824911f61f80449465c58f24d8c07d?pvs=4" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/3135/3135692.png" alt="CV"/>
   </a>
-  <a href="https://leetcode.com/u/mairon26rus/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode"/>
-  </a>
-  <a href="https://t.me/MIRON_ANOSOV" target="_blank">
+  <a href="https://t.me/pluviofile2_0" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <br>
