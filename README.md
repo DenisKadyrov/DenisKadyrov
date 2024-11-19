@@ -67,18 +67,6 @@ I finished a web development course at Skillbox!<br> </p>
 
 ###
 
-<p align="center">
- <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" alt="snake"/>
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-
-###
-
 <div id="badges" align="center">
   <div aling="center"><h4>Contacts:</h4> </div>
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
