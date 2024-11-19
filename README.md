@@ -55,7 +55,7 @@ I finished a web development course at Skillbox!<br> </p>
 ###
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=DenisKadyrov" alt="GitHub Streak" style="display: inline-block;"/>
+    <img src="https://streak-stats.demolab.com?user=DenisKadyrov&theme=transparent" alt="GitHub Streak" style="display: inline-block;"/>
 </div>
 
 ###
