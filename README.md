@@ -16,7 +16,7 @@
 related fields such as DevOps, networking, operating systems and more.
 
 Currently, I’m studying the C programming language to deepen my understanding of computer science.⚡️<br>
-I finished a web development course at Skillbox!<br> </p>
+</p>
 
 ###
 
