@@ -78,8 +78,3 @@ Currently, I’m studying the C programming language to deepen my understanding 
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=miron-anosov.miron-anosov&"  />
-</div>
