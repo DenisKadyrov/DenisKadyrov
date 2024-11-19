@@ -73,7 +73,7 @@ Currently, I’m studying the C programming language to deepen my understanding 
   <a href="https://t.me/pluviofile2_0" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://cdn-icons-png.flaticon.com/128/3135/3135692.png" target="_blank">
+  <a href="https://orange-breeze-de6.notion.site/10824911f61f80449465c58f24d8c07d?pvs=4" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Gist-orange?style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
   </a>
 </div>
