@@ -3,7 +3,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" width="750" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif"  />
+  <img height="400" width="750" src="https://i.pinimg.com/originals/49/f4/16/49f416a4d35244412c69cf7113bc27ba.gif"  />
 </div>
 
 ###
@@ -25,8 +25,6 @@ I finished a web development course at Skillbox!<br> </p>
   <img src="https://symbols.getvecta.com/stencil_25/69_python.34cfd522d6.svg" height="40" alt="Python"  />
   <img width="12" />
   <img src="https://symbols.getvecta.com/stencil_28/88_visual-studio-team-services-git-repository.c595f4166d.svg" height="40" alt="Git"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" height="40" alt="Ubuntu"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="40" alt="FastAPI"  />
   <img width="12" />
