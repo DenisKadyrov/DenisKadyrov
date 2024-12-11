@@ -47,6 +47,8 @@ Currently, I’m studying the C programming language to deepen my understanding 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
+  <img width="12" />
 </div>
 
 ###
